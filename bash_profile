@@ -1,3 +1,6 @@
+# ubuntu
+#source /usr/lib/git-core/git-sh-prompt
+# mac
 source /usr/local/etc/bash_completion.d/git-prompt.sh
 source /usr/local/etc/bash_completion.d/git-completion.bash
 
